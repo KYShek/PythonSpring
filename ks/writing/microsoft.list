@@ -1,5 +1,6 @@
 # 内容：Microsoft
 # 数量：75条
+DOMAIN,cn.bing.com,DIRECT
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
@@ -75,4 +76,3 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-DOMAIN,cn.bing.com,DIRECT
